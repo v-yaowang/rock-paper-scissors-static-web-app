@@ -1,5 +1,5 @@
 # A Rock Paper Scissors game hosted within an Azure Static Web App
-
+yaotest
 At Build 2020, Microsoft announced [Static Web Apps](https://azure.microsoft.com/en-gb/services/app-service/static/). Static Web App's allows acceleration of development with a static front fend with the option of using serverless API's as the back end. The serverless API's being Azure Functions.
 
 Azure Static Web Apps also automatically builds and deploys full stack web apps to Azure from a GitHub repository.
